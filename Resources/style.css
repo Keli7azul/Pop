@@ -17,8 +17,8 @@ body {
 h1#pop {
    font-size: 60px;
    font-weight: bold;
-   color: darkred;
-   text-shadow: 2px 2px red;
+   color: red;
+   text-shadow: 2px 2px black;
    }
 
 h1 {
@@ -34,47 +34,44 @@ strong {
        }
 
 h2 {
-      text-shadow: 2px 2px aqua;
-      color: grey;
+      text-shadow: 2px 2px black;
+      color: aqua;
       font-weight: bold;
    }
 
-div#image {
-          height: 100px;
-          width: 500px;
-          background-color: powderblue;
-          }
 
  Img {
-    border-radius: 26%;
+    border-radius: 10%;
+
 }
 
-   h2#spain {
-      color: blue;
-      }
+
 
 nav {
     color: blue;
-    text-shadow: 2px 2px lightblue;
-    font-size: 35px
+    text-shadow: 2px 2px black;
+    font-size: 40px;
     font-weight: bold;
     }
 
 
 h2#media {
          color: blue;
-         text-shadow: 2px 2px red;
+         text-shadow: 2px 2px black;
          font-weight: bold;
+         font-size: 50px;
          }
 
 h2#quotes {
           color: blue;
-          text-shadow: 2px 2px red;
+          text-shadow: 2px 2px black;
           font-weight: bold;
+          font-size: 50px;
           }
 
 h2#life {
          color: blue;
-         text-shadow: 2px 2px red;
+         text-shadow: 2px 2px black;
          font-weight: bold;
+         font-size: 50px;
          }

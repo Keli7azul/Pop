@@ -1,0 +1,58 @@
+html {
+     margin-top: 100px;
+     margin-bottom: 100px;
+     margin-right: 150px;
+     margin-left: 80px;
+      }
+
+body {
+     text-align: center;
+     }
+
+h1#pop {
+   font-size: 60px;
+   font-weight: bold;
+   color: darkred;
+   text-shadow: 2px 2px red;
+   }
+
+h1 {
+   text-shadow: 2px 2px blue;
+
+   }
+
+h2 {
+      text-shadow: 2px 2px aqua;
+      color: grey;
+      font-weight: bold;
+   }
+
+   h2#spain {
+      color: blue;
+      }
+
+nav {
+    color: blue;
+    text-shadow: 2px 2px lightblue;
+    font-size: 35px
+    font-weight: bold;
+    }
+
+
+h2#media {
+         color: blue;
+         text-shadow: 2px 2px red;
+         font-weight: bold;
+         }
+
+h2#quotes {
+          color: blue;
+          text-shadow: 2px 2px red;
+          font-weight: bold;
+          }
+
+h2#life {
+         color: blue;
+         text-shadow: 2px 2px red;
+         font-weight: bold;
+         }

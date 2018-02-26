@@ -21,6 +21,13 @@ h1 {
 
    }
 
+strong {
+  font-size: 32px;
+  font-weight: bold;
+  color: red;
+  text-shadow: 2px 2px black;
+       }
+
 h2 {
       text-shadow: 2px 2px aqua;
       color: grey;

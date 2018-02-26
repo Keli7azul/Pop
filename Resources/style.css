@@ -3,11 +3,16 @@ html {
      margin-bottom: 100px;
      margin-right: 150px;
      margin-left: 80px;
-      }
+     }
+
 
 body {
      text-align: center;
-     }
+    border-style: solid;
+    border-color: red;
+    border-width: 5px;
+}
+
 
 h1#pop {
    font-size: 60px;

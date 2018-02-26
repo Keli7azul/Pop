@@ -21,12 +21,8 @@ h1#pop {
    text-shadow: 2px 2px black;
    }
 
-h1 {
-   text-shadow: 2px 2px blue;
 
-   }
-
-strong {
+span {
   font-size: 32px;
   font-weight: bold;
   color: red;
@@ -35,8 +31,9 @@ strong {
 
 h2 {
       text-shadow: 2px 2px black;
-      color: aqua;
+      color: blue;
       font-weight: bold;
+       font-size: 50px;
    }
 
 
@@ -63,11 +60,12 @@ h2#media {
          }
 
 h2#quotes {
-          color: red;
-          text-shadow: 2px 2px black;
-          font-weight: bold;
-          font-size: 50px;
-          }
+  text-shadow: 2px 2px black;
+    color: blue;
+    font-weight: bold;
+    font-size: 50px;
+  }
+
 
 h2#life {
          color: blue;
